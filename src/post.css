@@ -1,0 +1,34 @@
+.post {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 16px;
+    margin-bottom: 16px;
+    background-color: #fff;
+  }
+  
+  .post-index {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color: #ccc;
+    text-align: center;
+    line-height: 24px;
+    font-weight: bold;
+    margin-right: 16px;
+    color: #fff;
+  }
+  
+  .post-title {
+    margin-top: 0;
+  }
+  
+  .post-image {
+    max-width: 100%;
+    margin-top: 16px;
+  }
+  
+  .post-description {
+    margin-bottom: 0;
+  }
+  
